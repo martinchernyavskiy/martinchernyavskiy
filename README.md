@@ -2,8 +2,8 @@
 
 <div align="center">
   <b>── NOW PLAYING ──</b><br>
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6wn3yg4kyoyb5evb53n42elsm&cover_image=false&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=38bdf8&bar_color_cover=false&mode=dark" width="380">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6wn3yg4kyoyb5evb53n42elsm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31b6wn3yg4kyoyb5evb53n42elsm&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color=1e41a7&bar_color_cover=true&mode=dark" width="400">
   </a>
 </div>
 
