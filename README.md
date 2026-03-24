@@ -1,4 +1,4 @@
-# 👋 Martin Chernyavskiy
+# Hi, I'm Martin Chernyavskiy 👋
 
 <div align="center">
   <b>── NOW PLAYING ──</b><br>
