@@ -11,7 +11,7 @@
 I am a **Computer Science student at UW-Madison** specializing in high-performance systems and database internals. Currently, I am an **Undergraduate Researcher at Sirius DB**, where I engineer GPU-accelerated query execution pipelines in collaboration with **NVIDIA**.
 
 ---
-
+<!--
 ### 💻 Skills
 
 #### **Systems & Performance**
@@ -30,6 +30,6 @@ I am a **Computer Science student at UW-Madison** specializing in high-performan
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
 
 ---
-
+-->
 ### 📫 Connect
 [Website](https://martinchernyavskiy.com) • [LinkedIn](https://linkedin.com/in/martin-chernyavskiy) • [Email](mailto:martin.chernyavskiy@gmail.com)
