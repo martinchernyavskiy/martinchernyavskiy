@@ -32,4 +32,4 @@ I am a **Computer Science student at UW-Madison** specializing in high-performan
 ---
 -->
 ### 📫 Connect
-[Website](https://martinchernyavskiy.com) • [LinkedIn](https://linkedin.com/in/martin-chernyavskiy) • [Email](mailto:martin.chernyavskiy@gmail.com)
+[Website](https://martinchernyavskiy.com) • [LinkedIn](https://linkedin.com/in/martin-chernyavskiy) • [Email](mailto:martin.chernyavskiy@proton.me)
